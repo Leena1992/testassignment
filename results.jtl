@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1722451984782,623,Login,302,Found,Thread Group 1 1-1,text,true,,228,252,1,1,http://www.demoblaze.com/login,619,0,30
+1722451985409,284,Entries Home,302,Found,Thread Group 1 1-1,text,true,,297,190,1,1,http://www.demoblaze.com/entries?cat=phone&id=1&id=2&id=3&id=4&id=5&id=7&id=8&id=9&cat=notebook,284,0,0
+1722451985694,293,Check Home,302,Found,Thread Group 1 1-1,text,true,,228,265,1,1,http://www.demoblaze.com/check,293,0,0
+1722451985987,288,Cat Phone,302,Found,Thread Group 1 1-1,text,true,,231,257,1,1,http://www.demoblaze.com/bycat%20,288,0,0
+1722451986276,301,Cat Laptops,302,Found,Thread Group 1 1-1,text,true,,231,259,1,1,http://www.demoblaze.com/bycat%20,301,0,0
+1722451986578,282,Select Product,302,Found,Thread Group 1 1-1,text,true,,230,127,1,1,http://www.demoblaze.com/entries,282,0,0
+1722451986861,300,Add to Cart,302,Found,Thread Group 1 1-1,text,true,,232,370,1,1,http://www.demoblaze.com/addtocart,300,0,0
+1722451987163,279,Purchase,302,Found,Thread Group 1 1-1,text,true,,233,130,1,1,http://www.demoblaze.com/entries%20,279,0,0
+1722451987443,298,Delete Item,302,Found,Thread Group 1 1-1,text,true,,233,191,1,1,http://www.demoblaze.com/deleteitem,298,0,0
